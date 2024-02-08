@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": "ae11",
+      "firstname": "sam",
+      "lastname": "k",
+      "phonenumber": 887877881,
+      "city": "vij"
+    }
+  ],
+  "signup": [
+    {
+      "name": "jayesh",
+      "email": "jayesh@gmail.com",
+      "password": "jayesh123",
+      "id": "1"
+    },
+    {
+      "id": "5a97",
+      "name": "buurhan",
+      "email": "bburhan@gmial.com",
+      "password": "burhan"
+    }
+  ],
+  "contactus": [
+    {
+      "name": "burhan",
+      "email": "burhan@gmail.com",
+      "message": "i am feeling problem in editing",
+      "id": "1"
+    }
+  ],
+  "signupadmin": [
+    {
+      "name": "burhan",
+      "email": "burhan@gmail.com",
+      "password": "1234",
+      "id": "1"
+    },
+    {
+      "id": "11c2",
+      "name": "bburhan",
+      "email": "bburhan@gmail.com",
+      "password": "burhan"
+    }
+  ]
+}
